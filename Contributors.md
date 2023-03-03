@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- CharlyMech-Test
 - [Aryan Karayi] (https://github.com/aryankarayi)
   [Matheus]
 - [Raihan Shezan] (https://github.com/RaihanShezan)
